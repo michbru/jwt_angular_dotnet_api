@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6db92e22-7604-4078-8366-534e8f728145": {
+      "ProjectGuid": "6db92e22-7604-4078-8366-534e8f728145",
+      "DisplayName": "DotNetJwtAuth",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

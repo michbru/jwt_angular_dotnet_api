@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1847c59f-2282-4579-8fb5-8735c0bbc863": {
+      "ProjectGuid": "1847c59f-2282-4579-8fb5-8735c0bbc863",
+      "DisplayName": "app-dotnet5-jwt-token-service",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
